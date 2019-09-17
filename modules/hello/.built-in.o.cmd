@@ -1,0 +1,1 @@
+cmd_/home/labredes/GabrielWetzel/buildroot/modules/hello/built-in.o :=  rm -f /home/labredes/GabrielWetzel/buildroot/modules/hello/built-in.o; ar rcSTPD /home/labredes/GabrielWetzel/buildroot/modules/hello/built-in.o
